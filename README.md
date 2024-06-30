@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vishnurchityala.github.io/profile/](https://vishnurchityala.github.io/profile/)
 
-- 💬 Ask me about **Arduino and Spring**
+- 💬 Ask me about **Arduino and Spring Framework**
 
 - 📫 How to reach me **vishnurchityala@gmail.com**
 
