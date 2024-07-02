@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vishnu Chityala</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h1 align="">Hi 👋, I'm Vishnu Chityala</h1>
+<h3 align="">A passionate programmer from India</h3>
 
 - 🌱 I’m currently learning **Spring Framework, React JS**
 
