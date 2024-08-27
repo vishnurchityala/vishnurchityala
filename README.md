@@ -18,5 +18,3 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<img>![Spring](https://raw.githubusercontent.com/username/repository_name/branch/path/to/image.png)</img>
