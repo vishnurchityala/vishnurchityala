@@ -36,4 +36,8 @@
 <p>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </p> -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
+<p align="left">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark&perline=7" />
+  </a>
+</p>
