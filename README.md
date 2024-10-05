@@ -38,6 +38,12 @@
 </p> -->
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,django,flask,spring&theme=dark&perline=7" />
+  </a>
+</p>
+<h3 align="left">Languages :</h3>
+<p align="left">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark&perline=7" />
   </a>
 </p>
