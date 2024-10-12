@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,django,flask,spring&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,django,flask,spring,firebase&theme=dark&perline=7" />
   </a>
 </p>
 <h3 align="left">Languages :</h3>
