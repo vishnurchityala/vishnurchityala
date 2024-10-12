@@ -30,3 +30,4 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark&perline=7" />
   </a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=vishnurchityalay&&style=flat-square" align="center" />
