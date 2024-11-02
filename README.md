@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Framework, React JS**
 
-- 👨‍💻 All of my projects are available at [Website](https://vishnuchityala.in)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vishnuchityala.in)
 
 - 💬 Ask me about **Arduino and Spring Framework**
 
