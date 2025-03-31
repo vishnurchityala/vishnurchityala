@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **vishnurchityala@gmail.com**
 
-- ⚡ Fun fact **I think I am funny (My Friends disagree)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
