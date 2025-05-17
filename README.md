@@ -26,6 +26,6 @@
 <h3 align="left">Languages :</h3>
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark&perline=7" />
   </a>
 </p>
