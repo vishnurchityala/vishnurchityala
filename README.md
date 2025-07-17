@@ -1,20 +1,18 @@
-<h1 align="">Hi 👋, I'm Vishnu Chityala</h1>
-<h3 align="">A passionate programmer from India</h3>
+# 👋 Hi, I'm Vishnu Chityala
+🎓 BTech CSE (AI) @ Bennett University | AI Engineer | Full-Stack Developer  
+🚀 Building LLM-powered and AR-based web apps | Passionate about applied ML & scalable systems
 
-- 🌱 I’m currently learning **Spring Framework, React JS**
+### 🔬 Projects
+•⁠  ⁠*[Wearlytic](https://wearlytic.vishnuchityala.in/)* – AI-powered fashion analytics tool using LLMs, MongoDB, and Express.js  
+•⁠  ⁠*[AR-cade](https://arcade.vishnuchityala.in/)* – Multiplayer AR scavenger hunt game built with AR.Js and Firebase  
+•⁠  ⁠*[Perceptron from Scratch](https://github.com/vishnuchityala/perceptron)* – Learning neural networks by building them bottom-up
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://vishnuchityala.in)
+### 🧰 Tech Stack
+Python • JavaScript • Django • Spring Boot • Firebase • Docker • MongoDB • AR.Js • GitHub Actions
 
-- 💬 Ask me about **Arduino and Spring Framework**
-
-- 📫 How to reach me **vishnurchityala@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chityalavishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chityalavishnu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnuchityala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishnuchityala" height="30" width="40" /></a>
-</p>
+### 📫 Let's Connect!
+•⁠  ⁠Portfolio: [vishnuchityala.in](https://www.vishnuchityala.in)
+•⁠  ⁠LinkedIn: [linkedin.com/in/vishnuchityala](https://linkedin.com/in/vishnuchityala)
 
 <h3 align="left">Skills :</h3>
 
