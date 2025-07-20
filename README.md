@@ -26,3 +26,6 @@ Python • JavaScript • Django • Spring Boot • Firebase • Docker • Mon
     <img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark&perline=7" />
   </a>
 </p>
+
+### Certifications
+Link: [./CERTIFICATES.md]
