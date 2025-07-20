@@ -5,7 +5,6 @@
 ### 🔬 Projects
 •⁠  ⁠*[Wearlytic](https://wearlytic.vishnuchityala.in/)* – AI-powered fashion analytics tool using LLMs, MongoDB, and Express.js  
 •⁠  ⁠*[AR-cade](https://arcade.vishnuchityala.in/)* – Multiplayer AR scavenger hunt game built with AR.Js and Firebase  
-•⁠  ⁠*[Perceptron from Scratch](https://github.com/vishnuchityala/perceptron)* – Learning neural networks by building them bottom-up
 
 ### 🧰 Tech Stack
 Python • JavaScript • Django • Spring Boot • Firebase • Docker • MongoDB • AR.Js • GitHub Actions
