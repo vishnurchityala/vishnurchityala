@@ -2,12 +2,6 @@
 🎓 BTech CSE (AI) @ Bennett University | AI Engineer | Full-Stack Developer  
 🚀 Building LLM-powered and AR-based web apps | Passionate about applied ML & scalable systems
 
-### 🔬 Projects
-•⁠  ⁠*[Wearlytic](https://wearlytic.vishnuchityala.in/)* – AI-powered fashion analytics tool using LLMs, MongoDB, and Express.js  
-•⁠  ⁠*[AR-cade](https://arcade.vishnuchityala.in/)* – Multiplayer AR scavenger hunt game built with AR.Js and Firebase  
-
-### 🧰 Tech Stack
-Python • JavaScript • Django • Spring Boot • Firebase • Docker • MongoDB • AR.Js • GitHub Actions
 
 ### 📫 Let's Connect!
 •⁠  ⁠Portfolio: [vishnuchityala.in](https://www.vishnuchityala.in)
