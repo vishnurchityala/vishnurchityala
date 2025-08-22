@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Vishnu Chityala
-🎓 BTech CSE (AI) @ Bennett University | AI Engineer | Full-Stack Developer  
-🚀 Building LLM-powered and AR-based web apps | Passionate about applied ML & scalable systems
-
 
 ### 📫 Let's Connect!
 •⁠  ⁠Portfolio: [vishnuchityala.in](https://www.vishnuchityala.in)
