@@ -1,3 +1,3 @@
-### 👋 Hi, I'm Vishnu Chityala
+### 🙏 Hi, I'm Vishnu Chityala
 
 Nerd Alive
