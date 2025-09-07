@@ -1,3 +1,3 @@
 ### 🙏 Hi, I'm Vishnu Chityala
 
-Nerd Alive
+a nerd alive, occasionally debugging my own code.
