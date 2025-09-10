@@ -11,15 +11,11 @@
   </a>
 </p>
 
----
-
 ## AI/ML & GenAI Projects
 I'm currently digging into a hands-on comparison between Vision Transformers (ViT) and Convolutional Neural Networks (CNNs), looking at everything from their inductive biases to real-world architecture and fault tolerance.
 
 ## Web Development Project
 Building Wearlytic, an end-to-end fashion data analytics tool. The goal is to automate the entire process—from scraping data, through pre-processing and loading, to making that data actually accessible and useful.
-
----
 
 ## Tech Stack
 
@@ -33,7 +29,5 @@ Building Wearlytic, an end-to-end fashion data analytics tool. The goal is to au
 
 **GenAI:**  
 <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="24" alt="Langchain"/> Langchain
-
----
 
 Feel free to check out my projects, suggest improvements, or just reach out if you want to chat about any of the above.
