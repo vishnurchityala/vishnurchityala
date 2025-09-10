@@ -1,5 +1,7 @@
 # Hi, I'm Vishnu Chityala
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnuchityala)
+
 (a nerd alive, occasionally debugging my own code.)
 
 ---
