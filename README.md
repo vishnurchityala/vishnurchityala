@@ -1,8 +1,15 @@
 # Hi, I'm Vishnu Chityala
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnuchityala)
-
 (a nerd alive, occasionally debugging my own code.)
+
+<p>
+  <a href="https://www.linkedin.com/in/vishnuchityala" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/vishnurchityala/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="32" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
 
