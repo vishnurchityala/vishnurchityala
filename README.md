@@ -4,18 +4,22 @@
 
 <p>
   <a href="https://www.linkedin.com/in/vishnuchityala" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/vishnurchityala/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="32" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 
 ## AI/ML & GenAI Projects
-I'm currently digging into a hands-on comparison between Vision Transformers (ViT) and Convolutional Neural Networks (CNNs), looking at everything from their inductive biases to real-world architecture and fault tolerance.
+I'm currently digging into a hands-on comparison between `Vision Transformers (ViT)` and `Convolutional Neural Networks (CNNs)`, looking at everything from their inductive biases to real-world architecture and fault tolerance.
+
+So far, fine-tuned and applied transfer learning on `CNNs` for the DTD dataset. Using `PyTorch` with `CUDA` and ConvNeXt-XXL, the model achieved `81% test accuracy` and has been made available on Hugging Face for public use.
 
 ## Web Development Project
-Building Wearlytic, an end-to-end fashion data analytics tool. The goal is to automate the entire process—from scraping data, through pre-processing and loading, to making that data actually accessible and useful.
+Currently building Wearlytic, an end-to-end `fashion data analytics tool` designed to automate the entire workflow, from `data scraping` and `preprocessing` to `loading` and making the insights accessible and actionable.
+
+So far, built a Scraping Agent capable of handling concurrent requests to scrape multiple websites simultaneously, using a custom utility package called scraperkit and implementing a robust multi-level queueing system to streamline the process. The system is powered by `FastAPI`, `Celery`, and `Redis`.
 
 ## Tech Stack
 
@@ -29,5 +33,3 @@ Building Wearlytic, an end-to-end fashion data analytics tool. The goal is to au
 
 **GenAI:**  
 <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="24" alt="Langchain"/> Langchain
-
-Feel free to check out my projects, suggest improvements, or just reach out if you want to chat about any of the above.
