@@ -11,16 +11,6 @@
   </a>
 </p>
 
-## AI/ML & GenAI Projects
-I'm currently digging into a hands-on comparison between `Vision Transformers (ViT)` and `Convolutional Neural Networks (CNNs)`, looking at everything from their inductive biases to real-world architecture and fault tolerance.
-
-So far, fine-tuned and applied transfer learning on `CNNs` for the DTD dataset. Using `PyTorch` with `CUDA` and ConvNeXt-XXL, the model achieved `81% test accuracy` and has been made available on Hugging Face for public use.
-
-## Web Development Project
-Currently building Wearlytic, an end-to-end `fashion data analytics tool` designed to automate the entire workflow, from `data scraping` and `preprocessing` to `loading` and making the insights accessible and actionable.
-
-So far, built a Scraping Agent capable of handling concurrent requests to scrape multiple websites simultaneously, using a custom utility package called scraperkit and implementing a robust multi-level queueing system to streamline the process. The system is powered by `FastAPI`, `Celery`, and `Redis`.
-
 ## Tech Stack
 
 **Languages & Frameworks:**  
