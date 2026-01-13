@@ -44,5 +44,5 @@
 
 
 **GenAI:**  
-<img src="[https://python.langchain.com/img/brand/wordmark.png](https://raw.githubusercontent.com/langchain-ai/langchain/refs/heads/master/.github/images/logo-light.svg)" width="80" alt="LangChain"/>
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/refs/heads/master/.github/images/logo-light.svg" width="80" alt="LangChain"/>
 <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" width="90" alt="LangChain"/>
